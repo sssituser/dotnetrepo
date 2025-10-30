@@ -1,0 +1,51 @@
+1.Project(CRUD) operation
+
+2.Backend(Springboot,NodeJs,DotnetCoreWebApi,DjangoRest)
+
+JSON Server =>Backend(API)
+===============
+db.json===>DataBase
+
+
+React => FrontEnd
+
+Employess=Eid,Ename,Esal
+
+Front End : ADD Employee
+            Edit Employee
+	    GET Employee
+	    GET Employees
+	    Delete Employee
+
+1.Create Front End Application
+
+1.WebPack Tool : Create-react-app  <appname>
+
+2.Vite : npm create vite@latest <appname> // faster
+
+
+===========================================
+1.Create ServerFolder
+2.Package.json   npm init --yes
+3.db.json
+4.npm install json-server
+5.Add Employee Record
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

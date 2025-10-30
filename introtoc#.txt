@@ -1,0 +1,9 @@
+INSTALLATION:
+c# : It is a high level programming language.
+     It was introduced by Microsoft.
+     it is a case sensitive language.
+     it belongs c family
+     It's extension is .cs
+     It follows oops features, it is called as object oriented programming          language.
+
+	

@@ -1,0 +1,137 @@
+		In order to develop application we required tools.
+Java,Php,pycharm,eclipse we develop applications
+
+Software
+Web application
+MobileApplication.
+
+			.NET also can be used to develop application
+			software
+			web
+			mobile
+			.Net is developer friendly so that it can generate
+			80% code .net tool
+			Drag Drop
+			we get support from MicroSoft
+
+
+
+1.What is .Net ?
+	.Net is a framework which can be used to develop application.
+
+	or
+	.Net is a Tool which can be used to develop application(Visual Studio)
+	It is a software which can be used develop application
+	
+	.Net is a Technology which can be used to develop application
+
+
+
+	Framework : It is a largescale different integrated lib, which can be used to 		develop application end to end
+
+	---------------------------------
+	VB   VC#  VC++.................
+	----------------------------------------
+	CLS(Common Language Specification)
+	----------------------------------------
+	WinForms     Asp.net     Silverlight
+	-------------------------------------
+	ADO.NET(Active X Data Object)
+	-------------------------------------
+	WCF	WPF		LINQ
+	-------------------------------------
+	CLR(Common Language Runtime)
+	------------------------------------
+	1. VB,VC#,VC++.... : .Net Support 70 + languages.
+	   Language Independent.
+	2.CLS(Common Language Specification)
+
+		Data types are common for all the languages in .Net
+		i.e. called CTS(Common type specification)
+
+
+		VB			VC#      vc++
+
+		Dim a as Integer	int a;    int a;
+
+			   compiling
+			    Int32    ---- MSIL(Micro soft intermediate language)
+				    
+					  Common lang specification
+
+
+		 What is CLS : Cls is subset of CTS
+
+	Winforms : It is a lib , which is used to develop software applications
+	(GUI) or Desktop application.
+
+	ASP.net : It is server side web tech, It is used to develop web application.
+
+
+
+				Web Tech
+			1.Client Web Tech : we can develop static web : HTML , CSS
+			2.Server Side Web Tech : It is used develop dynamic web 				 appliation, Its extension .aspx
+	
+	Silver Light is a Tool : It is a tool which used to design 2d and 3d Images with
+	animations which are required for app development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+2.Why .Net 
