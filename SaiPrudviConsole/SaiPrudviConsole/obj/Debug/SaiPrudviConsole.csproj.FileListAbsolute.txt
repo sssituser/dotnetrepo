@@ -1,0 +1,7 @@
+C:\Users\Sushma\source\repos\SaiPrudviConsole\SaiPrudviConsole\bin\Debug\SaiPrudviConsole.exe.config
+C:\Users\Sushma\source\repos\SaiPrudviConsole\SaiPrudviConsole\bin\Debug\SaiPrudviConsole.exe
+C:\Users\Sushma\source\repos\SaiPrudviConsole\SaiPrudviConsole\bin\Debug\SaiPrudviConsole.pdb
+C:\Users\Sushma\source\repos\SaiPrudviConsole\SaiPrudviConsole\obj\Debug\SaiPrudviConsole.csproj.AssemblyReference.cache
+C:\Users\Sushma\source\repos\SaiPrudviConsole\SaiPrudviConsole\obj\Debug\SaiPrudviConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sushma\source\repos\SaiPrudviConsole\SaiPrudviConsole\obj\Debug\SaiPrudviConsole.exe
+C:\Users\Sushma\source\repos\SaiPrudviConsole\SaiPrudviConsole\obj\Debug\SaiPrudviConsole.pdb
