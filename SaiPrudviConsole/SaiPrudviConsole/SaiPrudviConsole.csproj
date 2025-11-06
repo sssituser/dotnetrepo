@@ -64,6 +64,7 @@
     <Compile Include="Class23.cs" />
     <Compile Include="Class24.cs" />
     <Compile Include="Class25.cs" />
+    <Compile Include="Class26.cs" />
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
     <Compile Include="Class5.cs" />
