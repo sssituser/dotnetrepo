@@ -6,24 +6,11 @@ using System.Threading.Tasks;
 
 namespace SaiPrudviConsole
 {
-    internal class Class26
+    internal class Class47
     {
         static void Main(string[] args)
         {
-            int i = 1;
-            do
-            {
-                Console.WriteLine($"{i++}.Welcome to SSSIT Training");
-            } while (true);
-
-
-
-
-
-
-
-
-
+            
         }
     }
 }

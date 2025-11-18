@@ -10,13 +10,14 @@ namespace SaiPrudviConsole
     {
         static void Main(string[] args)
         {
-            int start = 2;
+            int start = 21;
             int end = 20;
-            while (start <= end)
+            do
             {
-                Console.WriteLine(start);
-                start += 2;//start = start+2
-            }
+                Console.WriteLine(start); // 30
+                start += 2;//start = start+2 // start= 32
+
+            } while (start <= end);
         }
     }
 }

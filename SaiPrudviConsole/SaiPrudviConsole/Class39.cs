@@ -6,20 +6,14 @@ using System.Threading.Tasks;
 
 namespace SaiPrudviConsole
 {
-    internal class Class27
+    internal class Class39
     {
         static void Main(string[] args)
         {
-            int i = 1;
-            Console.Write("Enter a number: "); 
-            int num = int.Parse(Console.ReadLine());// num = 5
-
-            while (i <= num)
+            for(int num = 10; num >= 1; num--)
             {
-                Console.WriteLine(i);
-                i++;
+                Console.WriteLine(num);
             }
-
         }
     }
 }

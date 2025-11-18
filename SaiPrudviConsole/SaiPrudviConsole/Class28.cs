@@ -17,16 +17,22 @@ namespace SaiPrudviConsole
 
             int end = 1;
 
-            while (num >= end)
+
+
+
+
+
+            do
             {
                 Console.WriteLine(num);// 5
                 num--;
             }
+            while (num >= end);
 
 
 
 
-            
+
         }
     }
 }

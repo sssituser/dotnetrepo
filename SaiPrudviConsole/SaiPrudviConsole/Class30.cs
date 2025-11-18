@@ -10,7 +10,7 @@ namespace SaiPrudviConsole
     {
         static void Main(string[] args)
         {
-            // Find the sum of n number. Ex:- num = 5 1+2+3+4+5
+            
             int start = 1;
             int x = 0;
             Console.Write("Enter a value : "); // 3

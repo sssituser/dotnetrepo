@@ -6,19 +6,18 @@ using System.Threading.Tasks;
 
 namespace SaiPrudviConsole
 {
-    internal class Class27
+    internal class Class41
     {
         static void Main(string[] args)
         {
-            int i = 1;
-            Console.Write("Enter a number: "); 
-            int num = int.Parse(Console.ReadLine());// num = 5
+            Console.Write("Enter a number : ");
+            int num = int.Parse(Console.ReadLine());
 
-            while (i <= num)
+            for(int start = 1; start <= 20; start++)
             {
-                Console.WriteLine(i);
-                i++;
+                Console.WriteLine($"{num}  x {start} = {num*start} ");
             }
+
 
         }
     }
